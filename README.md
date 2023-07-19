@@ -13,6 +13,7 @@ It is a field that will revolutionize the world. Quantum computing can be used f
 - [Quantum Computing Books](#quantum-computing-books)
 - [Quantum Computing Community](#quantum-computing-community)
 - [Lot more resources to be added soon](#lot-more-resources-will-be-updated-soon)
+  
 <kbd> more to added </kbd>
 
 ## Introduction
@@ -115,8 +116,9 @@ It is a field that will revolutionize the world. Quantum computing can be used f
 - [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - An embedded, scalable, functional programming language for quantum computing.
 - [Qurry](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
 - [QuTiP](http://qutip.org/docs/latest/index.html) - Quantum toolbox in Python for simulating dynamics of open quantum systems.
-
-<kbd> more to added </kbd>
 - [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) - A quantum machine learning library that integrates Cirq with TensorFlow for prototyping of hybrid quantum-classical models for classical or quantum data.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
+
+
+<kbd> more to added </kbd>
