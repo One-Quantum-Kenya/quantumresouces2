@@ -1,7 +1,7 @@
 # Quantum Resources.
 
 
-[Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) is the use of quantum phenomena such as superposition and entanglement to perform computation.
+# [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) is the use of quantum phenomena such as superposition and entanglement to perform computation.
 It is a field that will revolutionize the world. Quantum computing can be used for special kinds of problems that cannot be solved by classical computers.
 
 ## CONTENTS
@@ -119,6 +119,7 @@ It is a field that will revolutionize the world. Quantum computing can be used f
 - [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) - A quantum machine learning library that integrates Cirq with TensorFlow for prototyping of hybrid quantum-classical models for classical or quantum data.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
+- [ StrawberryFields ](https://github.com/XanaduAI/strawberryfields)A cross-platform Python library for simulating and executing programs on quantum photonic hardware - XanaduAI.
 
 
 <kbd> more to added </kbd>
