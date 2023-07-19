@@ -10,8 +10,7 @@ It is a field that will revolutionize the world. Quantum computing can be used f
 - [Mathematics for Quantum Computing](#mathematics-for-quantum-computing)
 - [Best Youtube Channels & Playlists for Quantum Computing](#best-youtube-channels--playlists-for-quantum-computing)
 - [Quantum Computing Tools](#quantum-computing-tools)
-- [Quantum Computing Books](#quantum-computing-books)
-- [Quantum Computing Community](#quantum-computing-community)
+- [Quantum Computing Books](#quantum-computing-books) 
 - [Lot more resources to be added soon](#lot-more-resources-will-be-updated-soon)
   
 <kbd> more to added </kbd>
