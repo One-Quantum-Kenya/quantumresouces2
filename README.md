@@ -1,5 +1,8 @@
+# Quantum Resources.
+
+
 [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) is the use of quantum phenomena such as superposition and entanglement to perform computation.
-It is a field that will revolutionise the world. Quantum compuing can be used for special kinds of problems that cannot be solved by the classical computers.
+It is a field that will revolutionize the world. Quantum computing can be used for special kinds of problems that cannot be solved by classical computers.
 
 ## CONTENTS
 - [Introduction](#introduction)
@@ -26,14 +29,14 @@ It is a field that will revolutionise the world. Quantum compuing can be used fo
 - [What is Quantum Computing?](https://www.technologyreview.com/2019/01/29/66141/what-is-quantum-computing/)
 - [What is Quantum Computing and how does it work?](https://builtin.com/hardware/quantum-computing)
 
-## Getting started with Quantum Mechanics
+## Getting Started with Quantum Mechanics
 
 **Videos**
 
-- [Dr Quantum Double Slit Experiment](https://youtu.be/NvzSLByrw4Q)
+- [Dr. Quantum Double Slit Experiment](https://youtu.be/NvzSLByrw4Q)
 - [Schrödinger's cat experiment - Understanding superposition](https://www.youtube.com/watch?v=UjaAxUO6-Uw)
 - [What does Schrödinger's Cat explain to us?](https://www.youtube.com/watch?v=67MG6_N0msg)
-- [Quantum Entanglemnt - 'Spooky action at a distance'](https://www.youtube.com/watch?v=z1GCnycbMeA)
+- [Quantum Entanglement - 'Spooky action at a distance](https://www.youtube.com/watch?v=z1GCnycbMeA)
 - [Understanding Quantum Mechanics - Superposition and Entanglement](https://www.youtube.com/watch?v=j6Mw3_tOcNI)
 
 ## Mathematics for Quantum Computing
@@ -98,18 +101,18 @@ It is a field that will revolutionise the world. Quantum compuing can be used fo
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
 - [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
 - [Orquestra](https://www.zapatacomputing.com/orquestra/) - Zapata Computing's unified quantum operating environment, allowing for quantum-enabled workflows.
-- [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) - Baidu's python toolkit for quantum machine learning.
+- [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) - Baidu's Python toolkit for quantum machine learning.
 - [PennyLane](http://github.com/XanaduAI/pennylane) - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
 - [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
 - [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
-- [pytket](https://cqcl.github.io/pytket/build/html/index.html) - Python module for interfacing with Cambridge Quantum Computing's t|ket>; a tool for circuit optimising and qubit allocation.
-- [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
+- [pytket](https://cqcl.github.io/pytket/build/html/index.html) - Python module for interfacing with Cambridge Quantum Computing's t|ket>; a tool for circuit optimizing and qubit allocation.
+- [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C-like language for quantum computers. Only has a simulator and debugger.
 - [Qiskit SDK](https://qiskit.org) - Software development kit by IBM for writing and running quantum algorithms on simulators and real hardware.
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
 - [Qrack](https://vm6502q.readthedocs.io) - High performance LGPL-licensed C++ quantum simulator library, documentation, and test code.
 - [Quantum++](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
-- [Quantum Programming Studio](https://quantum-circuit.com/) - Web based quantum programming IDE and simulator.
-- [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
+- [Quantum Programming Studio](https://quantum-circuit.com/) - Web-based quantum programming IDE and simulator.
+- [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - An embedded, scalable, functional programming language for quantum computing.
 - [Qurry](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
 - [QuTiP](http://qutip.org/docs/latest/index.html) - Quantum toolbox in Python for simulating dynamics of open quantum systems.
 - [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
