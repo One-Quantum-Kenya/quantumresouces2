@@ -15,6 +15,10 @@ It is a field that will revolutionize the world. Quantum computing can be used f
   
 <kbd> more to added </kbd>
 
+## ACADEMY/SCHOOLS
+ ** Free **
+ - [IQM Academy - Learn the foundations of quantum computing ](https://www.iqmacademy.com/)
+
 ## Introduction
 
 **Videos**
